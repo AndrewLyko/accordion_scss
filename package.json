@@ -1,0 +1,23 @@
+{
+  "name": "accordion_scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./src/scss/main.scss ./dist/styles/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewLyko/accordion_scss.git"
+  },
+  "author": "Andrzej Łyko",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/AndrewLyko/accordion_scss/issues"
+  },
+  "homepage": "https://github.com/AndrewLyko/accordion_scss#readme",
+  "devDependencies": {
+    "sass": "^1.54.4"
+  }
+}
