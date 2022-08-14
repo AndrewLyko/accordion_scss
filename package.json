@@ -17,7 +17,8 @@
     "url": "https://github.com/AndrewLyko/accordion_scss/issues"
   },
   "homepage": "https://github.com/AndrewLyko/accordion_scss#readme",
-  "devDependencies": {
+  "dependencies": {
+    "normalize-scss": "^7.0.1",
     "sass": "^1.54.4"
   }
 }

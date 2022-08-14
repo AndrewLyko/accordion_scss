@@ -1,0 +1,11 @@
+@import "../../node_modules/normalize-scss/sass/normalize/import-now";
+
+//config
+@import "./config";
+
+// common
+
+@import "./common";
+
+//components
+@import "components/accordion";
